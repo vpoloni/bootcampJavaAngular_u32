@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center;
+}
+
+body{
+    background-image: url(img/br.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: center;
+}
+
+.text-color{
+    color:darkslategrey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
