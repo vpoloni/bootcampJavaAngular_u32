@@ -3,9 +3,9 @@
 }
 
 body{
-    background-image: url(img/br.png);
+    background-image: url(img/bg.JPG);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size:220vh;
     background-position-x: center;
 }
 
