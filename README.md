@@ -1,5 +1,5 @@
 # bootcampJavaAngular_u32
-Este repositorio contiene los ejercicios resueltos de la unidad 32.
+Este repositorio contiene los ejercicios resueltos de la unidad 32.  
 El tema: Bootstrap.
 
 ![image](https://user-images.githubusercontent.com/89861246/172066027-885f66cc-9cb0-449f-abea-9c578f9f716a.png)
